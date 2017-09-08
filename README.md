@@ -20,6 +20,6 @@ own. _This is an exercise._
 - You can even view it in your browser in the beautiful HTML I've written!
 
 ## Need help installing Flask?
-- Get pip (https://pip.pypa.io/en/stable/installing/)
+- Get [pip](https://pip.pypa.io/en/stable/installing/ "It's freakin' lit!")
 - `$ pip install Flask`
 - Done. Game, set, and match.
