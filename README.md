@@ -8,6 +8,9 @@ own. _This is an exercise._
 - A computer, probably
 - Python ( _obviously_ )
 - Flask (can be installed through _pip_)
+- python-setuptools
+- python-dev
+- build-essential
 
 ## How to Run It
 - `$ FLASK_APP=flask_app.py flask run`
